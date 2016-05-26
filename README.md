@@ -3,6 +3,8 @@
 Movement model used for simulating harbour porpoise fine scale movement behaviour. Please 
 refer to the scientific publication (Nabe-Nielsen et al. 2013) for detailed documentation.
 
+DOI:10.5281/zenodo.53149
+
 To run model: 
 1. Make sure that the raster-data folder is located in the same directory as the Porp-Move 
   1.0 file. 
